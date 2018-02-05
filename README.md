@@ -1,2 +1,2 @@
-# sample-repository-master
-Repositorio de prueba del curso
+# sample-repository
+Sample project GitHub repository
